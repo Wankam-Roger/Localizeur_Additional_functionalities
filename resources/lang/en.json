@@ -1,0 +1,464 @@
+{
+    
+"raison": "Company Name",
+"registre": "Commercial register",
+"contribuable": "Taxpayer Card",
+"statut-j": "Legal Status",
+"type-entreprise": "Business Type",
+"chiffre-affaire": "Turnover",
+"localisation_pays": "Country",
+"localisation_ville": "City",
+"localisation_street": "Street",
+"localisation_adresse": "Address",
+"localisation_tel": "Phone Number",
+"localisation_tel_2": "Phone Number 2",
+"localisation_bp": "Postal Code",
+"localisation_email": "Email Address",
+"localisation_siteweb": "Website",
+"secteur_activite": "Business Sector",
+"formulaire-ajout-entreprise": "Company Addition Form",
+"nombre_employees": "Average Number of Employees",
+"about-us-main-header": "About Our Company",
+"about-us-who-we-are": "Who we are",
+"about-us-who-we-are-text": "We are a business intelligence and strategy firm offering innovative solutions for the digitalization of processes, growth, and competitiveness of companies and start-ups.",
+"about-us-what-we-do": "What we do",
+"titre": "Title",
+"description": "Description",
+"entreprise": "Company",
+"document": "Document",
+"file": "File",
+"company-image": "Company Image",
+"welcome-to": "Welcome to",
+"login": "Login",
+"register": "Register",
+"reviews": "Reviews",
+"viewed": "viewed",
+"visit-website": "Visit our website",
+"hero-main-header": "Business Rating 3.0",
+"community-main-header": "Community",
+"books-main-header": "Books",
+"hero-main-sub-header": "Stand out in your sector, position yourself in relation to the competition",
+"menu-home": "Home",
+"menu-about-us": "About Us",
+"menu-secteur-activite": "Business sector",
+"menu-business-rating": "Business Rating",
+"menu-blog-forum": "Blog",
+"just-looking-around": "Just looking around? Use quick search by category:",
+"restaurant": "Restaurants",
+"hotel": "Hotels",
+"shop": "Shops",
+"fitness": "Fitness",
+"event": "Events",
+"what-are-you-looking-for": "What are you looking for?",
+"search": "Search",
+"sign-in": "Sign In",
+"the-latest-listing": "The Latest Listings",
+"raise-image": "Increase Your Visibility",
+"explore-best-cities": "Explore Best Cities",
+
+"explore-best-cities-text": "Reference Districts for a Safe and Pleasant Stay",
+
+"explore-best-cities-bg": "Reference quarters",
+
+"faites-vous-distinguer": "Make yourself stand out in your sector of activity, position yourself in relation to the competition.",
+
+"top-ranking-localizer": "Top-ranking Localizer",
+
+"leader-or-follower": "Are you a Leader or a Follower? Enter the TOP 50, TOP 20, TOP 10",
+
+"french": "French",
+
+"english": "English",
+
+"reference-your-business": "Reference your business",
+
+"about-us-working-process": "Working Process",
+
+"about-us-why-choose-us": "Why Choose Us",
+
+"entreprise-ref": "Referenced Companies",
+
+"criteria-selection": "Rating Criteria",
+
+"user-visits": "Total Visits",
+
+"entreprises-leaders": "Leading Companies",
+
+"best-10": "The 10 Best Companies",
+
+"best-30": "The 20 Best Companies",
+
+"best-50": "The 50 Best Companies",
+
+"working-process": "Working Process",
+
+"working-process-sub-text": "Get your business listed: How it works (Follow our 4-step process)",
+
+"working-process-step-one": "SP/PE Audit",
+
+"working-process-step-one-text": "We evaluate the quality of the environmental perception of your human resources.",
+
+"working-process-step-two": "SC/P Survey",
+
+"working-process-step-two-text": "An online and offline satisfaction survey to evaluate the interaction between the company, its customers, and users.",
+"working-process-step-three": "Development of the digital communication strategy",
+
+"working-process-step-three-text": "Implementation of a strategy to optimize your branding and multi-channel visibility.",
+
+"working-process-step-four": "Evaluation and optimization solutions",
+
+"working-process-step-four-text": "Impact analysis and process optimization solutions.",
+
+"bonanjo-sub-text": "Business flatters. Top security, high life standard.",
+
+"akwa-sub-text": "Marketplace and multipurpose area.",
+
+"bonapriso-sub-text": "Best private stay, top security, and discretion.",
+
+"bonamoussadi-sub-text": "Developing area for stay and business.",
+
+"deido-sub-text": "Popular place for leisure.",
+
+"bali-sub-text": "Traditional site for stay and business.",
+
+"most-popular-place": "Companies Area.",
+
+"most-popular-place-text": "Find your companies by Business Sector.",
+
+
+"all-our-companies": "All Partner Companies.",
+
+"our-tarification": "Our Tariff Plans",
+
+"company-listing": "Company Listing",
+
+"monthly-tarif": "Monthly Tariff",
+
+"yearly-tarif": "Yearly Tariff",
+
+"per-month": "Per Month",
+
+"per-year": "Per Year",
+
+"tarification": "Pricing Tables",
+
+"cost-of-services": "Cost of Services",
+
+"tarification-text": "Company ranking is based on internal and external CS/PC audits.",
+
+"another-comm-support": "We offer additional communication support.",
+
+"how-it-works": "How it works?",
+
+"how-it-works-text": "Comment ça marche?",
+
+"find-business": "Find a Business",
+
+"business-ranking": "Check its Ranking",
+
+"rate-business": "Rate the Business",
+
+"find-business-text": "Visit our site and find a business you are interested in.",
+
+"business-ranking-text": "Check the ranking among thousands of other businesses in the same sector.",
+
+"rate-business-text": "Visit the business and provide a corresponding comment based on different criteria.",
+
+"our-mobile-app-available-soon": "Our App Available Soon",
+
+"cost-accessibility": "Cost and accessibility",
+
+"product-quality": "Quality of products and services",
+
+"credit-access": "Access to credit",
+
+"customer-satisfaction": "Customer satisfaction",
+
+"after-sales": "After-sales service",
+
+"interior-design": "Interior design",
+
+"cleanliness": "Cleanliness of premises",
+
+"speed-service": "Speed of service",
+
+"professionalism": "Professionalism",
+
+"customer-service": "Customer focus",
+
+"welcome-orientation": "Welcome/orientation",
+
+"landing-how-it-works": "How it works?",
+
+"our-latest-news": "Our Latest News",
+
+"popular-post": "Popular Posts",
+
+"community-page": "Community",
+
+"about-text-list-1": "Employee and partner perception surveys",
+
+"about-text-list-2": "Customer and partner satisfaction surveys",
+
+"about-text-list-3": "Digitalization and optimization of tools and processes in companies (training in state-of-the-art digital solutions and tools)",
+
+"about-text-list-4": "Referencing and visibility of companies",
+
+"about-text-list-5": "Advice and assistance (financialand real estate transactions, PIP investments)",
+
+"about-text-list-6": "Individual and group coaching (personal development, entrepreneurship & leadership)",
+
+"about-text-list-7": "Provision of services (other ...)",
+
+"video_subtext": "We remain focused on tradition. Download our Business Magazine: LOCALIZER, produced in 300 monthly copies and distributed free of charge.",
+
+"subscribe-for": "Subscribe For a",
+
+"newsletter": "Newsletter",
+
+"subscribe-for-newsletter-text": "Want to be notified about new companies? Just sign up.",
+
+"enter-your-mail": "Enter Your Email",
+
+"recent-companies": "Our Recent Companies",
+
+"book-subs-enter-your-mail": "Enter your email",
+
+"book-subs-enter-your-name": "Enter your name",
+
+"book-subs-enter-your-phone": "Enter your WhatsApp phone number",
+
+"advertising-space": "Advertising Space",
+
+"our-reels": "Our Reels",
+
+"contact-us": "Contact Us",
+
+"discover-the-services-and-products-of-the-companies-around-you": "Discover the Services and Products of the Companies Around You",
+
+"a-picture-is-worth-a-thousand-words": "A Picture Is Worth a Thousand Words",
+
+"our-companies-present-their-services-through-short-videos": "Our companies present their services through short videos",
+
+"reel-text-des-1": "If a picture is worth a thousand words and a film is composed of several hundred thousand images, the film becomes the best tool to fully transfer to the spectator the idea that the filmmaker wants to convey.",
+"reel-text-des-2": "A presentation video allows you to highlight the qualities and specificities of a product (design, technology, etc.) and to emphasize the customer benefits (ease of installation and/or use, etc.). This kind of advertising film meets the current market trend.",
+
+"support": "24 Hours Support",
+
+"support_text": " With our 24/7 support, you can trust that we're always here for you. Whether you have a question or need assistance, our dedicated team is ready to help at any time.",
+
+"admin_panel": "Admin Panel",
+
+"admin_panel_text": "To ensure a professional experience for our users, we have included an advanced Admin panel that provides a range of features to enhance your experience." ,
+"user_friendly":"User Friendly",
+"user_friendly_text": "In today's digital age, having a mobile-friendly website is more important than ever. With an increasing number of people accessing the internet, it's crucial to ensure that your website is optimized for these devices. ",
+
+"certainly":"Client-Centric Approach: At the core of our company is a strong commitment to putting our clients first. We take the time to listen and understand your unique challenges, goals, and aspirations. By collaborating closely with you, we develop customized strategies and solutions that align with your vision and drive your success.",
+"message_text": "Interested ? Leave us a message",
+    "Rejoignez la communauté": "Join the community",
+    "Accueil": "Home",
+    "Communauté": "Community",
+    "Nous sommes déjà des centaines": "We are already hundreds",
+    " Adresse :)": " Address:",
+    "CMR Bonanjo Derriere Camair-co": "CMR Bonanjo Behind Camair-co",
+    " Téléphone :)": " Telephone:",
+    "+(237) 697 88 55 12": "+(237) 697 88 55 12",
+    " Email :": " Email:",
+    "info@localizeur.com": "info@localizeur.com",
+    "participate in our loyalty program. Refer a friend and get a discount.": "Participate in our loyalty program. Refer a friend and get a discount.",
+    "Read ": "Read ",
+    "Merci de vous être inscrit à notre plateforme": "Thank you for registering on our platform",
+    "Remplissez le Formulaire ci dessous": "Fill out the form below",
+    "Votre Noms *": "Your Name *",
+    "Email Address*": "Email Address*",
+    "Telephone": "Phone Number",
+    "Entreprise": "Enterprise",
+    "Adresse*": "Address*",
+    "Votre Bio:": "Your Bio:",
+    "Photo de profil": "Profile Picture",
+    "Inscription": "Register",
+    "testimonial1":"LOCALIZER has been an invaluable partner in our business growth journey. Their strategic guidance and comprehensive solutions have helped us streamline our operations and maximize efficiency. The level of professionalism and commitment shown by their team is exceptional. We truly appreciate their personalized approach and their unwavering dedication to our success. We highly recommend Localizer to any company seeking a trusted and reliable partner for their visibility.",
+    "fal fa-paper-plane": "fal fa-paper-plane",
+    "Our Location": "Our Location",
+    "testimonial": "Working with Localizer has been an absolute pleasure. Their team's expertise and professionalism exceeded our expectations. They took the time to understand our unique needs and provided tailored solutions that helped us achieve our goals. Their attention to detail and commitment to delivering exceptional results made them a trusted partner. We highly recommend Them to anyone looking for top-notch services.\" - John Smith, CEO of ECOBANK",
+    "Open Now": "Open Now",
+    "Moonlight Hotel": "Moonlight Hotel",
+    "Moderate": "Moderate",
+    "Shop in Aurora Center": "Shop in Aurora Center",
+    "Save": "Save",
+    "Gym in the Center": "Gym in the Center",
+    "Our carefully curated list features the finest dining establishments that offer an extraordinary gastronomic experience. From innovative fusion cuisine to classic fine dining, each restaurant showcases exceptional craftsmanship and an unwavering commitment to culinary artistry.": "Our carefully curated list features the finest dining establishments that offer an extraordinary gastronomic experience. From innovative fusion cuisine to classic fine dining, each restaurant showcases exceptional craftsmanship and an unwavering commitment to culinary artistry.",
+    "Luxury Restaurant": "Luxury Restaurant",
+    "Filters": "Filters",
+    "Localizeur 2022. All rights reserved": "Localizeur 2022. All rights reserved",
+    "Gallery": "Gallery",
+    "Mail": "Mail",
+    "Address": "Address",
+    "Phone": "Phone",
+    "Best Listing": "Best Listing",
+    "Check out All listing": "Check out All listing",
+    "Facilities": "Facilities",
+    "Shopping": "Shopping",
+    "Faites vous diistinguer dans votre sectuer, positionnez vous par rapport a la concurence.": "Faites vous diistinguer dans votre sectuer, positionnez vous par rapport a la concurence.",
+    "Mail Sent": "Mail Sent",
+    "Result For": "Result For",
+    "Discover": "Discover",
+    "Connect": "Connect",
+    "View All Cities": "View All Cities",
+    "Cote Divoire": "Cote Divoire",
+    "Search": "Search",
+    "Next": "Next",
+    "Contact Info": "Contact Info",
+    "Price": "Price",
+    "Call": "Call",
+    "Write": "Write",
+    "Prev": "Prev",
+    "New Adds": "New Adds",
+    "Wisdom": "Wisdom",
+    "Added By": "Added By",
+    "Open News": "Open News",
+    "Read all": "Read all",
+    "Relevant Partners": "Relevant Partners",
+    "Register": "Register",
+    "Terms and Conditions": "Terms and Conditions",
+    "I agree to the": "I agree to the",
+    "Password": "Password",
+    "Email Address": "Email Address",
+    "Full Name": "Full Name",
+    "Lost Your Password": "Lost Your Password",
+    "Remember Me": "Remember Me",
+    "LogIn": "LogIn",
+    "Username or Email Address": "Username or Email Address",
+    "Listing Tittle": "Listing Tittle",
+    
+        "Pages": "Pages",
+        "Shop": "Shop",
+        "Products": "Products",
+        "Product single": "Product single",
+        "Cart": "Cart",
+        "About": "About",
+        "Contacts": "Contacts",
+        "User single": "User single",
+        "How it Works": "How it Works",
+        "Booking": "Booking",
+        "Pricing": "Pricing",
+        "User Dashboard": "User Dashboard",
+        "Blog Single": "Blog Single",
+        "Add Listing": "Add Listing",
+        "Invoice": "Invoice",
+        "Login Sign": "Login Sign",
+        "404": "404",
+            "All Categories": "All Categories",
+            "Shops": "Shops",
+            "Hotels": "Hotels",
+            "Restaurants": "Restaurants",
+            "Fitness": "Fitness",
+            "Events": "Events",
+          
+            
+                "Our App Available Now": "Notre application est maintenant disponible",
+                "With a user-friendly interface and robust functionality, our app puts the power at your fingertips": "Avec une interface conviviale et des fonctionnalités robustes, notre application met le pouvoir au bout de vos doigts",
+                "Apple Stor": "Apple Store",
+                "Google Play": "Google Play",
+                "Booking now": "Réserver maintenant",
+                
+                "Books have the magical ability to transport us into the lives of fascinating characters. From brave heroes embarking on epic quests to introspective individuals navigating the complexities of the human condition, you'll find unforgettable companions within the pages of our books. Let their stories inspire and captivate you.": "Les livres ont le pouvoir magique de nous transporter dans la vie de personnages fascinants. Des héros courageux se lançant dans des quêtes épiques aux individus introspectifs naviguant dans les complexités de la condition humaine, vous trouverez des compagnons inoubliables au fil des pages de nos livres. Laissez leurs histoires vous inspirer et vous captiver.",
+                  
+                  
+                
+                    "our-tarification": "Our Tarification",
+                    "Home": "Home",
+                    "Pricing Tables": "Pricing Tables",
+                    "tarification": "Tarification",
+                    "cost-of-services": "Cost of Services",
+                    "tarification-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus convallis mauris, at sagittis nulla aliquet ac.",
+                    "yearly-tarif": "Yearly Tarif",
+                    "per-year": "per year",
+                    "Inscription :) 200 USD": "Registration: 200 USD",
+                    "Insertion dans le Business Magazine: LOCALIZER": "Insertion in Business Magazine: LOCALIZER",
+                    "Audit SC/PE": "SC/PE Audit",
+                    "Referencement SEO": "SEO Referencing",
+                    "Choose Professional": "Choose Professional",
+                    "Choose Extended": "Choose Extended",
+                    "Recommended": "Recommended",
+                    "Top 30": "Top 30",
+                    "1 300 USD": "1,300 USD",
+                    "650000 FCFA": "650,000 FCFA",
+                    "Top 10": "Top 10",
+                    "2 000 USD": "2,000 USD",
+                    "1000000 FCFA": "1,000,000 FCFA",
+                    "Referencement SEO , IOS": "SEO Referencing, IOS",
+                    "Top 50": "Top 50",
+                    "800 USD": "800 USD",
+                    "400000 FCFA": "400,000 FCFA",
+                        "Home": "Home",
+                        "Working Hours": "Working Hours",
+                        "Location / Contacts": "Location / Contacts",
+                        "Adress : ": "Adress: ",
+                        "Phone :": "Phone:",
+                        "Mail :": "Mail:",
+                        "Website :": "Website:",
+                        "Price Range": "Price Range",
+                        "Price : ": "Price: ",
+                        "Own or work here?": "Own or work here?",
+                        "Claim Now!": "Claim Now!",
+                        "Hosted by :)": "Hosted by :)",
+                        "Similar listings :)": "Similar listings :)",
+                        "Iconic Cafe": "Iconic Cafe",
+                        "Restaurants ": "Restaurants",
+                        "Cafe": "Cafe",
+                        "MontePlaza Hotel": "MontePlaza Hotel",
+                        "Hotels )": "Hotels",
+                        "Rocko Band in Marquee Club": "Rocko Band in Marquee Club",
+                        "Events": "Events",
+                        "Premium Fitness Gym": "Premium Fitness Gym",
+                        "Fitness": "Fitness",
+                        "Gym": "Gym",
+                        "Tags": "Tags",
+                        "Hotel": "Hotel",
+                        "Hostel": "Hostel",
+                        "Room": "Room",
+                        "Spa": "Spa",
+                        "Restourant": "Restaurant",
+                        "Parking": "Parking",
+                        "message_text": "Message Text",
+                        "Our App Available Now": "Our App Available Now",
+                        "Stay connected with the latest updates, access exclusive content, and enjoy personalized features tailored to your preferences.": "Stay connected with the latest updates, access exclusive content, and enjoy personalized features tailored to your preferences.",
+                            "Moderate": "Moderate",
+                            "Our App Now": "Our App Now",
+                            "Filters": "Filters",
+                            "Popular Categories": "Popular Categories",
+                            "Popular tags": "Popular tags",
+                            "Livres Populaires": "Livres Populaires",
+                            "Commander": "Commander",
+                            "Demander la votre": "Demander la votre",
+                            "Commande!": "Commande!",
+                            "Prev Livre": "Prev Livre",
+                            "Proc Livre": "Proc Livre",
+                            "By": "By",
+                            "Categories": "Categories",
+                            "Share": "Share",
+                                "Helpful Review": "Helpful Review",
+                                "Add Review": "Add Review",
+                                "critere_id_0": "Criterion 0 ID",
+                                "critere_0": "Criterion 0",
+                                "critere_id_1": "Criterion 1 ID",
+                                "critere_1": "Criterion 1",
+                                "critere_id_2": "Criterion 2 ID",
+                                "critere_2": "Criterion 2",
+                                "Your Name *": "Your Name *",
+                                "Email Address*": "Email Address*",
+                                "Your Review:": "Your Review:",
+                                "Submit Review": "Submit Review"
+                            
+                              
+                        
+                               
+                              
+                              
+                          
+                          
+                          
+                          
+    
+}
